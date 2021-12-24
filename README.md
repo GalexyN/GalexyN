@@ -20,9 +20,11 @@
 ### Languages and Tools
 ---
 #### Languages
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/>
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/>
+</p>
 
 #### Frontend
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
