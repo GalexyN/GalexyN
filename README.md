@@ -27,26 +27,32 @@
 </p>
 
 #### Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</p>
 
 #### Backend
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+</p>
 
 #### DevOps
-<img src="https://img.icons8.com/color/48/000000/circleci.png"/>
-<img src="https://img.icons8.com/windows/32/000000/grunt.png"/>
-<img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/circleci.png"/>
+    <img src="https://img.icons8.com/windows/32/000000/grunt.png"/>
+    <img src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</p>
 
 ### GitHub Stats ❤️
 ---
