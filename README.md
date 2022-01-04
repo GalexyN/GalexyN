@@ -11,7 +11,7 @@
 
 ### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  2️⃣ &nbsp; GOALS
 ---
-- [ ] 5 Open Source Contributions
+- [X] 5 Open Source Contributions
 - [ ] Proficiency in Python 🐍
 - [ ] Proficiency in Ruby 💎
 - [ ] Launch portfolio website 🤭
