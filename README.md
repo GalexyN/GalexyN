@@ -13,8 +13,9 @@
 ---
 - [X] 5 Open Source Contributions
 - [ ] Proficiency in Python 🐍
-- [ ] Proficiency in Ruby 💎
+- [X] Proficiency in Ruby 💎
 - [ ] Launch portfolio website 🤭
+- [ ] 1 AWS Certification
 
 
 ### Languages and Tools
