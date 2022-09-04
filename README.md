@@ -16,6 +16,7 @@
 - [X] Proficiency in Ruby 💎
 - [ ] Launch portfolio website 🤭
 - [ ] 1 AWS Certification
+- [ ] Implement GraphQL in an application
 
 
 ### Languages and Tools
