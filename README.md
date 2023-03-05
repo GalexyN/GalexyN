@@ -9,14 +9,9 @@
  🤗  &nbsp; Fun fact: My original legal name was Galaxy, but my mom had it changed in case I got bullied 
  growing up.
 
-### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  2️⃣ &nbsp; GOALS
+### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  3️⃣ &nbsp; GOALS
 ---
-- [X] 5 Open Source Contributions
-- [ ] Proficiency in Python 🐍
-- [X] Proficiency in Ruby 💎
-- [ ] Launch portfolio website 🤭
 - [ ] 1 AWS Certification
-- [ ] Implement GraphQL in an application
 
 
 ### Languages and Tools
