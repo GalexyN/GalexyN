@@ -9,9 +9,10 @@
  🤗  &nbsp; Fun fact: My original legal name was Galaxy, but my mom had it changed in case I got bullied 
  growing up.
 
-### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  3️⃣ &nbsp; GOALS
+### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  4️⃣ &nbsp; GOALS
 ---
 - [ ] 1 AWS Certification
+- [ ] Implement Step Functions
 
 
 ### Languages and Tools
