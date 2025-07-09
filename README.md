@@ -11,7 +11,6 @@
 
 ### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  5️⃣&nbsp; GOALS
 ---
-- [ ]
 
 
 ### Languages and Tools
@@ -20,7 +19,10 @@
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/>
+    <img src="https://img.icons8.com/?size=48&id=12eMo7h5rCTp&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=wpZmKzk11AzJ&format=png&color=000000" />
+
+
 </p>
 
 #### Frontend
