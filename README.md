@@ -9,15 +9,9 @@
  🤗  &nbsp; Fun fact: My original legal name was Galaxy, but my mom had it changed in case I got bullied 
  growing up.
 
-### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  4️⃣ &nbsp; GOALS
+### 2️⃣  &nbsp;0️⃣&nbsp;  2️⃣&nbsp;  5️⃣&nbsp; GOALS
 ---
-- [ ] 1 AWS Certification
-- [x] Implement 5 new AWS services into production application
-  - Amazon SES
-  - Amazon Step Functions
-  - Amazon Cognito
-  - Amazon AppAsync
-  - Amazon EventBridge *Scheduler*
+- [ ]
 
 
 ### Languages and Tools
